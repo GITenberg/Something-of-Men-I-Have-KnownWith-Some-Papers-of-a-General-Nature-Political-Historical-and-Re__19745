@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8858
     wikipedia: http://en.wikipedia.org/wiki/Adlai_E._Stevenson_I
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19745#Something-of-Men-I-Have-KnownWith-Some-Papers-of-a-General-Nature-Political-Historical-and-Re_
 gutenberg_issued: '2006-11-09'
 gutenberg_type: Text
 identifiers:
