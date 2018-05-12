@@ -1,0 +1,31 @@
+_repo: Something-of-Men-I-Have-KnownWith-Some-Papers-of-a-General-Nature-Political-Historical-and-Re__19745
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Adlai E. (Adlai Ewing)
+    birthdate: 1835
+    deathdate: 1914
+    gutenberg_agent_id: '8858'
+    url: http://www.gutenberg.org/2009/agents/8858
+    wikipedia: http://en.wikipedia.org/wiki/Adlai_E._Stevenson_I
+description: ''
+gutenberg_issued: '2006-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19745'
+  lccn: 09028140
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Biography'
+- !lcsh 'United States -- Politics and government -- 1865-1933'
+- !lcc 'E660'
+title: 'Something of Men I Have Known
+
+  With Some Papers of a General Nature, Political, Historical, and Retrospective'
+url: http://www.gutenberg.org/ebooks/19745
